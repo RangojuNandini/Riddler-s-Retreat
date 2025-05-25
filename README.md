@@ -1,4 +1,4 @@
-# Riddler's Retreat
+## Riddler's Retreat
 
 Riddler's Retreat is a fun console-based riddle game written in C. Players can choose from six different sets of riddles, answer timed questions, and compete for top scores on a global leaderboard.
 
@@ -25,10 +25,10 @@ Riddler's Retreat is a fun console-based riddle game written in C. Players can c
 
 ## NOTES
 
--Please enter answers in lowercase letters.
+- Please enter answers in lowercase letters.
 
--The leaderboard updates after each player finishes.
+- The leaderboard updates after each player finishes.
 
--Supports multiple players in a single session.
+- Supports multiple players in a single session.
 
    
