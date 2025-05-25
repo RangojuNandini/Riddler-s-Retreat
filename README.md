@@ -23,7 +23,7 @@ Riddler's Retreat is a fun console-based riddle game written in C. Players can c
 7. After finishing, view your score and leaderboard ranking.
 8. Choose to play again or exit.
 
-##NOTES
+## NOTES
 
 -Please enter answers in lowercase letters.
 
